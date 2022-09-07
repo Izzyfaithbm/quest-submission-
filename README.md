@@ -24,5 +24,13 @@ My answers! :D
 ## Chapter 2 Day 1
 
 ```cadence
-hi
+pub contract JacobTucker {
+  pub let is: String
+
+    init() {
+        self.is = "the best"
+    }
+
+}
 ```
+![2022-09-07](https://user-images.githubusercontent.com/70292894/188973876-a96dcce8-b4e2-43b1-99fb-d47489bcaa5c.png)
