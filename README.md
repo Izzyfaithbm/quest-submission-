@@ -23,6 +23,8 @@ My answers! :D
 
 ## Chapter 2 Day 1
 
+MY ANSWERS/CODE :)!
+
 ```cadence
 pub contract JacobTucker {
   pub let is: String
