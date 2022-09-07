@@ -20,3 +20,9 @@ My answers! :D
    Clarity is useful to the users because if the person who developed the Smart Contract has bad intentions, it can easily be found within the code. Without clarity, the    code would be too difficult for users (who don't understand Cadence) to read and could possibly agree to a "malicious" contract.
    Approachability is good for developers. People who have coded before and want to learn Cadence will learn with more ease because of it's familiarity.
    Developer Experience is, obviously, useful to developers. It will motivate them to code and help them through confusing errors. 
+
+## Chapter 2 Day 1
+
+```cadence
+hi
+```
