@@ -8,7 +8,7 @@ Here are my answers! :)
 
 2. Smart Contracts are programs that people code to interact with others in the Blockchain. 
 
-3. A transaction has data that the user can change, whereas a script is something that the user can only read.
+3. A transaction changes the data in a smart contract, whereas a script is used to view the contract.
 
 ## Chapter 1 Day 2 
 
