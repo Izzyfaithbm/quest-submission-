@@ -50,3 +50,5 @@ pub contract JacobTucker {
 ![2022-09-09 (2)](https://user-images.githubusercontent.com/70292894/189458923-0f50e02e-3a13-478f-803f-e1faf83c9463.png)
 
 ![2022-09-09](https://user-images.githubusercontent.com/70292894/189458940-2e05abb8-99a8-4b5b-a081-648d7f96dc1f.png)
+
+## Chapter 2 Day 3
