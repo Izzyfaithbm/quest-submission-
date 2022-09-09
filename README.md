@@ -44,8 +44,8 @@ pub contract JacobTucker {
 2. The AuthAccount type acceses the data in your account.
 
 3. The prepare phase acceses info/data on your account, whereas the execute phase changes data on the blockchain. 
-![2022-09-09 (1)](https://user-images.githubusercontent.com/70292894/189458909-be5e1fe3-63ed-4dc5-9a62-70ea4495cb2b.png)
 
+4. ![2022-09-09 (1)](https://user-images.githubusercontent.com/70292894/189458909-be5e1fe3-63ed-4dc5-9a62-70ea4495cb2b.png)
 
 ![2022-09-09 (2)](https://user-images.githubusercontent.com/70292894/189458923-0f50e02e-3a13-478f-803f-e1faf83c9463.png)
 
