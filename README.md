@@ -45,3 +45,6 @@ pub contract JacobTucker {
 
 3. The prepare phase acceses info/data on your account, whereas the execute phase changes data on the blockchain. 
 
+4. ![2022-09-09](https://user-images.githubusercontent.![2022-09-09 (2)](https://user-images.githubusercontent.com/70292894/189458817-0ab1e6e8-17be-4264-8272-785b23ead226.png)
+com/70292894/189458814-98a59976-647f-40a5-9aad-750d7f5517e9.png)
+![2022-09-09 (1)](https://user-images.githubusercontent.com/70292894/189458827-0098bbd7-8db6-47a1-b402-7b7295bbb03e.png)
