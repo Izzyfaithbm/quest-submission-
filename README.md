@@ -36,3 +36,12 @@ pub contract JacobTucker {
 }
 ```
 ![2022-09-07](https://user-images.githubusercontent.com/70292894/188973876-a96dcce8-b4e2-43b1-99fb-d47489bcaa5c.png)
+
+## Chapter 2 Day 2
+
+1. A script is only meant to be used to view data in a smart contract, therefore we wouldn't be able to use changeGreeting because only a trasaction can change data.
+
+2. The AuthAccount type acceses the data in your account.
+
+3. The prepare phase acceses info/data on your account, whereas the execute phase changes data on the blockchain. 
+
