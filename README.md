@@ -52,8 +52,8 @@ pub contract JacobTucker {
 ![2022-09-09](https://user-images.githubusercontent.com/70292894/189458940-2e05abb8-99a8-4b5b-a081-648d7f96dc1f.png)
 
 ## Chapter 2 Day 3
-
-1. ```cadence
+1. 
+```cadence
 var people: [String] = ["Mom", "Dad", "Me"]
 log(people[0]) 
 log(people[1]) 
