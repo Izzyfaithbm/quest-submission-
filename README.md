@@ -59,8 +59,11 @@ log(people[0])
 log(people[1]) 
 log(people[2])
 ```
-2.
 
+2.
+```cadence
+var names: {String: UInt64} = {"Facebook": 0, "Instagram": 1, "Twitter": 0, "YouTube": 2, "Reddit": 0, "LinkedIn": 0}
+```
 3.
 
 4.
