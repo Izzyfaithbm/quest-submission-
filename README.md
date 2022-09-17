@@ -54,7 +54,10 @@ pub contract JacobTucker {
 ## Chapter 2 Day 3
 
 1. ```cadence
-   
+var people: [String] = ["Mom", "Dad", "Me"]
+log(people[0]) 
+log(people[1]) 
+log(people[2])
    ```
 2.
 
