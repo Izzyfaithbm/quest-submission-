@@ -65,5 +65,14 @@ log(people[2])
 var names: {String: UInt64} = {"Facebook": 0, "Instagram": 1, "Twitter": 0, "YouTube": 2, "Reddit": 0, "LinkedIn": 0}
 ```
 3.
+The force-unwrap operator will unwrap an optional type and ask if it's nil or not. If it is, the entire program will abort. If it isn't, it will remove the optional type. Example:
 
+```cadence
+var good: Int? = 1
+var unwrapGood: Int = good! // safe :)
+
+var bad: Int? = nil
+var unwrapBad: Int = bad! // ABORT! ABORT!
+```
 4.
+The error message means that it is an optional, so it could be Int or nil. To fix the error, you have to add the force-unwrap operator, so make it "return thing[0x03]!"
