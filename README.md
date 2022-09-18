@@ -117,3 +117,35 @@ init() {
         self.profiles = {}
     }
 ```
+3.
+```cadence
+pub contract Authentication {
+
+    pub var apples: {Address: Apple}
+    
+    pub struct Apple {
+    pub let taste: String
+    pub let colour: String
+    pub let amount: Int 
+    pub let account: Address
+
+    init(_taste: String, _colour: String, _amount: Int, _account: Address) {
+        self.taste = _taste
+        self.colour = _colour
+        self.amount = _amount
+        self.account = _account
+    }
+}
+    pub fun addApple(taste: String, colour: String, amount: Int, account: Address) {
+        let newApple = Apple(_taste: taste, _colour: colour, _amount: amount, _account: account)
+        self.apples[account] = newApple
+    }
+
+    init() {
+        self.apples = {}
+    }
+
+}
+```
+
+4.
