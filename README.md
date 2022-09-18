@@ -76,3 +76,25 @@ var unwrapBad: Int = bad! // ABORT! ABORT!
 ```
 4.
 The error message means that it is an optional, so it could be Int or nil. To fix the error, you have to add the force-unwrap operator, so make it "return thing[0x03]!"
+
+## Chapter 2 Day 4 
+my answers! :)
+
+1.
+```cadence
+pub struct Apple {
+    pub let taste: String
+    pub let colour: String
+    pub let amount: Int 
+    pub let account: Address
+
+    init(_taste: String, _colour: String, _amount: Int, _account: Address) {
+        self.taste = _taste
+        self.colour = _colour
+        self.amount = _amount
+        self.account = _account
+    }
+}
+```
+
+2.
