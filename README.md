@@ -98,3 +98,22 @@ pub struct Apple {
 ```
 
 2.
+```cadence
+pub struct Apple {
+    pub let taste: String
+    pub let colour: String
+    pub let amount: Int 
+    pub let account: Address
+
+    init(_taste: String, _colour: String, _amount: Int, _account: Address) {
+        self.taste = _taste
+        self.colour = _colour
+        self.amount = _amount
+        self.account = _account
+    }
+}
+
+init() {
+        self.profiles = {}
+    }
+```
