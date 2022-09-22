@@ -114,7 +114,7 @@ pub struct Apple {
 }
 
 init() {
-        self.profiles = {}
+        self.apples = {}
     }
 ```
 3.
