@@ -99,7 +99,11 @@ pub struct Apple {
 
 2.
 ```cadence
-pub struct Apple {
+pub contract Authentication {
+
+    pub var apples: {Address: Apple}
+    
+    pub struct Apple {
     pub let taste: String
     pub let colour: String
     pub let amount: Int 
@@ -112,10 +116,11 @@ pub struct Apple {
         self.account = _account
     }
 }
-
-init() {
+    init() {
         self.apples = {}
     }
+
+}
 ```
 3.
 ```cadence
