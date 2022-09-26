@@ -158,3 +158,15 @@ pub contract Authentication {
 
 5.
 ![2022-09-18 (2)](https://user-images.githubusercontent.com/70292894/190939177-49ee84c4-3937-46e1-b4c8-4c1d1db33a0f.png)
+
+## Chapter 3 Day 1 
+
+1. Unlike structs, resources cannot be copied, lost or created whenever you want.
+2. If I wanted to transport something super important, like an NFT, a resource is perfect for making sure I don't lose it because of how secure it is. 
+3. "create"
+4. no
+5. Jacob
+6. - there is no @ symbol in front of the resource's type
+   - resources cannot be copied, you would change = to <-
+   - even after changing it to <-, it still wouldn't work because it would overwrite the myJacob variable 
+   - there should be a <- in between return and myGreeting 
