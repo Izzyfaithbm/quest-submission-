@@ -168,5 +168,5 @@ pub contract Authentication {
 5. Jacob
 6. - there is no @ symbol in front of the resource's type
    - resources cannot be copied, you would change = to <-
-   - even after changing it to <-, it still wouldn't work because it would overwrite the myJacob variable 
-   - there should be a <- in between return and myGreeting 
+   - even after changing it to <-, it still wouldn't work because there is no "create" keyword before Jacob()
+   - there should be a <- in between return and myJacob 
