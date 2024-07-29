@@ -2,7 +2,7 @@
 
 ## Chapter 1 Day 1 
 
-Here are my answers! :)
+Answers to beginner Cadence course! :)
 
 1. Blockchain is somewhere you can store info, view data, and interact with. The best part is there's no owner! So anyone can do anything (to a certain extent).
 
